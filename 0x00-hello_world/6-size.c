@@ -2,8 +2,9 @@
 
 /**
  * main - Prints the sizeof many var types
- *
- * Return Always 0 (Success)
+ * Description: using the main function
+ * this program prints sizeof mnt var types
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
